@@ -27,7 +27,6 @@
 
 ![ScreenShot](https://github.com/Ebrahim1133/Flutter-Projects-UIS/blob/master/chat3.jpg)
 
-![ScreenShot](https://github.com/Ebrahim1133/Flutter-Projects-UIS/blob/master/chat4.jpg)
 
 ![ScreenShot](https://github.com/Ebrahim1133/Flutter-Projects-UIS/blob/master/chat5.jpg)
 
@@ -53,7 +52,9 @@
 
 ![ScreenShot](https://github.com/Ebrahim1133/Flutter-Projects-UIS/blob/master/shop8.jpg)
 
-![ScreenShot](https://github.com/Ebrahim1133/Flutter-Projects-UIS/blob/master/shop9.jpg)
+![ScreenShot](https://github.com/Ebrahim1133/Flutter-Projects-UIS/blob/master/shop8.png)
+
+![ScreenShot](https://github.com/Ebrahim1133/Flutter-Projects-UIS/blob/master/shop9.png)
 
 <h2> Travel UI Apps</h2>
 
